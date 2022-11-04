@@ -1,0 +1,11 @@
+{
+  "name": "urfu/LastName",
+  "type": "project",
+  "description": "LabWork",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
